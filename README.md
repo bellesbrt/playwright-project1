@@ -1,6 +1,6 @@
 # QA Automation Project - Playwright
 
-Projeto de automação de testes end-to-end utilizando Playwright.
+Projeto de automação de testes end-to-end utilizando Playwright com site público.
 
 ## Tecnologias
 - Playwright
@@ -12,7 +12,7 @@ Projeto de automação de testes end-to-end utilizando Playwright.
 - Login inválido
 - Adição de produto ao carrinho
 
-## ▶️ Como rodar
+## Como rodar
 
 ```bash
 npm install
