@@ -16,4 +16,4 @@ Projeto de automação de testes end-to-end utilizando Playwright.
 
 ```bash
 npm install
-npx playwright test ou npx playwright test --headed
+npx playwright test
